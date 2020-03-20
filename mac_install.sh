@@ -1,8 +1,8 @@
 #!/bin/sh
 
 
-MINECRAFT_VERSION=1.14.4
-FORGE_VERSION=28.0.90
+MINECRAFT_VERSION=1.15.2
+FORGE_VERSION=31.1.24
 
 FORGE_INSTALLER_URL="https://files.minecraftforge.net/maven/net/minecraftforge/forge/$MINECRAFT_VERSION-$FORGE_VERSION/forge-$MINECRAFT_VERSION-$FORGE_VERSION-installer.jar"
 # FORGE_DIRECTORY="$HOME/Library/Application Support/minecraft/libraries/net/minecraftforge/forge/$MINECRAFT_VERSION-$FORGE_VERSION"
